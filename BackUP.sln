@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackUP", "BackUP\BackUP.csproj", "{D8174C14-706B-47E8-B520-642840D3C2DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackUP.LIB", "BackUP.LIB\BackUP.LIB.csproj", "{C87877B2-BC88-4E00-9F10-402346DB2120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8174C14-706B-47E8-B520-642840D3C2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8174C14-706B-47E8-B520-642840D3C2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8174C14-706B-47E8-B520-642840D3C2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8174C14-706B-47E8-B520-642840D3C2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C87877B2-BC88-4E00-9F10-402346DB2120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87877B2-BC88-4E00-9F10-402346DB2120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87877B2-BC88-4E00-9F10-402346DB2120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87877B2-BC88-4E00-9F10-402346DB2120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
