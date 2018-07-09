@@ -1,0 +1,8 @@
+c:\users\клюкинк\documents\visual studio 2015\Projects\BackUP\BackUP\bin\Debug\BackUP.exe.config
+c:\users\клюкинк\documents\visual studio 2015\Projects\BackUP\BackUP\bin\Debug\BackUP.exe
+c:\users\клюкинк\documents\visual studio 2015\Projects\BackUP\BackUP\bin\Debug\BackUP.pdb
+c:\users\клюкинк\documents\visual studio 2015\Projects\BackUP\BackUP\obj\Debug\BackUP.csprojResolveAssemblyReference.cache
+c:\users\клюкинк\documents\visual studio 2015\Projects\BackUP\BackUP\obj\Debug\BackUP.exe
+c:\users\клюкинк\documents\visual studio 2015\Projects\BackUP\BackUP\obj\Debug\BackUP.pdb
+c:\users\клюкинк\documents\visual studio 2015\Projects\BackUP\BackUP\bin\Debug\BackUP.LIB.dll
+c:\users\клюкинк\documents\visual studio 2015\Projects\BackUP\BackUP\bin\Debug\BackUP.LIB.pdb

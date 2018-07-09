@@ -1,0 +1,5 @@
+c:\Users\Клюкинк\documents\visual studio 2015\Projects\BackUP\BackUP.LIB\bin\Debug\BackUP.LIB.dll
+c:\Users\Клюкинк\documents\visual studio 2015\Projects\BackUP\BackUP.LIB\bin\Debug\BackUP.LIB.pdb
+c:\Users\Клюкинк\documents\visual studio 2015\Projects\BackUP\BackUP.LIB\obj\Debug\BackUP.LIB.dll
+c:\Users\Клюкинк\documents\visual studio 2015\Projects\BackUP\BackUP.LIB\obj\Debug\BackUP.LIB.pdb
+C:\Users\Клюкинк\documents\visual studio 2015\Projects\BackUP\BackUP.LIB\obj\Debug\BackUP.LIB.csprojResolveAssemblyReference.cache
